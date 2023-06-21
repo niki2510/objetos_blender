@@ -1,0 +1,20 @@
+  "MESH",
+        "CURVE",
+        "SURFACE",
+        "META",
+        "FONT",
+        "CURVES",
+        "POINTCLOUD",
+        "VOLUME",
+        "GPENCIL",
+        "ARMATURE",
+        "LATTICE",
+        "EMPTY",
+        "LIGHT",
+        "LIGHT_PROBE",
+        "CAMERA",
+        "SPEAKER"
+
+ C:\Users\user\AppData\Local\Programs\Python\Python311\Lib\site-packages
+
+Crea con python para blender objeto LATTICE
